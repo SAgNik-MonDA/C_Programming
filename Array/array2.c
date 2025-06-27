@@ -1,3 +1,4 @@
+// array with pointer
 #include <stdio.h>
 
 int main() {

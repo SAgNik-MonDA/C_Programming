@@ -1,3 +1,4 @@
+// array reverse
 #include <stdio.h>
 
 void rev(int arr[], int size) {

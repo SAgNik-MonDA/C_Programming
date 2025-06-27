@@ -1,3 +1,4 @@
+// array with pointer
 #include <stdio.h>
 int main(){
     int arr[7]={1,5,9,12,56,88,52};
